@@ -1,2 +1,2 @@
-# practica-css-tailwind
+# práctica-css-tailwind
 uso del framewokr tailwind
